@@ -1,0 +1,2 @@
+[0708/201958.594:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0708/201958.594:ERROR:exception_snapshot_win.cc(98)] thread ID 16580 not found in process
